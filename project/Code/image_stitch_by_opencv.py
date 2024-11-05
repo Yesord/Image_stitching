@@ -2,7 +2,7 @@
 # python image_stitching.py --images images/scottsdale --output output.png --crop 1
 
 # 导入必要的包
-from imutils import paths
+
 import numpy as np
 import os.path as osp
 import os
